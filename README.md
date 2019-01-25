@@ -38,5 +38,7 @@ It is necessary to grant the application the WRITE_SECURE_SETTINGS permission, o
 
 I'm quite sure you also need to switch off battery optimization for this application in order to get it working. It should not affect your battery performance as it is executed only at startup.
 
+Launch the application once and press the button. Then, open the OnePlus dialer app, navigate to settings, you should find "call record" in the menu. If you switch off and turn back on the phone, the setting should be still there.
+
 # Disclaimer
 Before using this app, you should check whether call recording is legal in your country. Anyway, the responsibility of what you do with this code is all yours!
